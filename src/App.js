@@ -1,5 +1,6 @@
 import Player from "./Components/Player";
 import Song from "./Components/Song";
+import './Styles/App.scss';
 
 function App() {
   return (
